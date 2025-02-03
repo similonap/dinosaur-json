@@ -1,0 +1,51 @@
+[
+  {
+    "id": 101,
+    "family": "Tyrannosauridae",
+    "order": "Saurischia",
+    "era": "Cretaceous",
+    "iconUrl": "https://example.com/icons/tyrannosauridae.png"
+  },
+  {
+    "id": 102,
+    "family": "Ceratopsidae",
+    "order": "Ornithischia",
+    "era": "Cretaceous",
+    "iconUrl": "https://example.com/icons/ceratopsidae.png"
+  },
+  {
+    "id": 103,
+    "family": "Dromaeosauridae",
+    "order": "Saurischia",
+    "era": "Cretaceous",
+    "iconUrl": "https://example.com/icons/dromaeosauridae.png"
+  },
+  {
+    "id": 104,
+    "family": "Stegosauridae",
+    "order": "Ornithischia",
+    "era": "Jurassic",
+    "iconUrl": "https://example.com/icons/stegosauridae.png"
+  },
+  {
+    "id": 105,
+    "family": "Brachiosauridae",
+    "order": "Saurischia",
+    "era": "Jurassic",
+    "iconUrl": "https://example.com/icons/brachiosauridae.png"
+  },
+  {
+    "id": 106,
+    "family": "Spinosauridae",
+    "order": "Saurischia",
+    "era": "Cretaceous",
+    "iconUrl": "https://example.com/icons/spinosauridae.png"
+  },
+  {
+    "id": 107,
+    "family": "Ankylosauridae",
+    "order": "Ornithischia",
+    "era": "Cretaceous",
+    "iconUrl": "https://example.com/icons/ankylosauridae.png"
+  }
+]
