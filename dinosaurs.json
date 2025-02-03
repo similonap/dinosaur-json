@@ -6,7 +6,7 @@
     "weight": 8000,
     "isExtinct": true,
     "discoveredDate": "1905-01-01",
-    "imageUrl": "https://example.com/images/trex.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/similonap/dinosaur-json/refs/heads/main/trex.webp",
     "diet": "Carnivore",
     "habitats": ["Forest", "Plains"],
     "classification": {
