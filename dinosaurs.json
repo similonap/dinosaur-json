@@ -1,0 +1,128 @@
+[
+  {
+    "id": 1,
+    "name": "Tyrannosaurus Rex",
+    "description": "A large carnivorous theropod dinosaur that lived during the Late Cretaceous period.",
+    "weight": 8000,
+    "isExtinct": true,
+    "discoveredDate": "1905-01-01",
+    "imageUrl": "https://example.com/images/trex.jpg",
+    "diet": "Carnivore",
+    "habitats": ["Forest", "Plains"],
+    "classification": {
+      "id": 101,
+      "family": "Tyrannosauridae",
+      "order": "Saurischia",
+      "era": "Cretaceous",
+      "iconUrl": "https://example.com/icons/tyrannosauridae.png"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Triceratops",
+    "description": "A herbivorous ceratopsid dinosaur known for its three horns and large frill.",
+    "weight": 6000,
+    "isExtinct": true,
+    "discoveredDate": "1889-01-01",
+    "imageUrl": "https://example.com/images/triceratops.jpg",
+    "diet": "Herbivore",
+    "habitats": ["Plains", "Woodlands"],
+    "classification": {
+      "id": 102,
+      "family": "Ceratopsidae",
+      "order": "Ornithischia",
+      "era": "Cretaceous",
+      "iconUrl": "https://example.com/icons/ceratopsidae.png"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Velociraptor",
+    "description": "A small but fast carnivorous dinosaur known for its intelligence and agility.",
+    "weight": 15,
+    "isExtinct": true,
+    "discoveredDate": "1924-01-01",
+    "imageUrl": "https://example.com/images/velociraptor.jpg",
+    "diet": "Carnivore",
+    "habitats": ["Desert", "Grasslands"],
+    "classification": {
+      "id": 103,
+      "family": "Dromaeosauridae",
+      "order": "Saurischia",
+      "era": "Cretaceous",
+      "iconUrl": "https://example.com/icons/dromaeosauridae.png"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Stegosaurus",
+    "description": "A large herbivore known for its distinctive back plates and spiked tail.",
+    "weight": 5000,
+    "isExtinct": true,
+    "discoveredDate": "1877-01-01",
+    "imageUrl": "https://example.com/images/stegosaurus.jpg",
+    "diet": "Herbivore",
+    "habitats": ["Forests", "Swamps"],
+    "classification": {
+      "id": 104,
+      "family": "Stegosauridae",
+      "order": "Ornithischia",
+      "era": "Jurassic",
+      "iconUrl": "https://example.com/icons/stegosauridae.png"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Brachiosaurus",
+    "description": "A massive, long-necked dinosaur known for its size and herbivorous diet.",
+    "weight": 28000,
+    "isExtinct": true,
+    "discoveredDate": "1903-01-01",
+    "imageUrl": "https://example.com/images/brachiosaurus.jpg",
+    "diet": "Herbivore",
+    "habitats": ["Swamps", "Forests"],
+    "classification": {
+      "id": 105,
+      "family": "Brachiosauridae",
+      "order": "Saurischia",
+      "era": "Jurassic",
+      "iconUrl": "https://example.com/icons/brachiosauridae.png"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Spinosaurus",
+    "description": "A large, semi-aquatic carnivore with a distinctive sail-like structure on its back.",
+    "weight": 10000,
+    "isExtinct": true,
+    "discoveredDate": "1912-01-01",
+    "imageUrl": "https://example.com/images/spinosaurus.jpg",
+    "diet": "Carnivore",
+    "habitats": ["Rivers", "Swamps"],
+    "classification": {
+      "id": 106,
+      "family": "Spinosauridae",
+      "order": "Saurischia",
+      "era": "Cretaceous",
+      "iconUrl": "https://example.com/icons/spinosauridae.png"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Ankylosaurus",
+    "description": "A heavily armored herbivore with a large club-like tail.",
+    "weight": 6000,
+    "isExtinct": true,
+    "discoveredDate": "1908-01-01",
+    "imageUrl": "https://example.com/images/ankylosaurus.jpg",
+    "diet": "Herbivore",
+    "habitats": ["Plains", "Forests"],
+    "classification": {
+      "id": 107,
+      "family": "Ankylosauridae",
+      "order": "Ornithischia",
+      "era": "Cretaceous",
+      "iconUrl": "https://example.com/icons/ankylosauridae.png"
+    }
+  }
+]
